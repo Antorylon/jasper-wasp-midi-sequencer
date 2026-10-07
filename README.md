@@ -218,7 +218,7 @@ EDP Wasp, Electronic Dream Plant Wasp, Jasper Synthesizer, Jasper Wasp, Jasper R
 
 ## License
 
-A license has not yet been selected. Until a license is added, normal copyright rules apply.
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Disclaimer
 
