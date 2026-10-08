@@ -4,6 +4,10 @@ A compact MIDI interface, clock utility, arpeggiator and monophonic sequencer fo
 
 The project talks directly to Jasper's **LINK** interface and adds modern MIDI control without modifying the original synthesizer circuitry.
 
+![Jasper / Wasp MIDI sequencer prototype](docs/images/jasper-midi-prototype.jpg)
+
+*Working prototype connected to a Jasper Rev 2.2 synthesizer.*
+
 ## Features
 
 - USB MIDI input
@@ -52,6 +56,12 @@ Additional parts:
 - optional regulated 5 V supply
 
 See [docs/wiring.md](docs/wiring.md) for the current wiring.
+
+### Prototype interface board
+
+![Prototype interface board](docs/images/interface-board.jpg)
+
+*Current hand-built prototype with Arduino Pro Micro, DIN MIDI IN/OUT, 6N137 input stage, local 5 V regulation, clock indication and buzzer.*
 
 ## Jasper LINK pin assignment
 
