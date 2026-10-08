@@ -2,6 +2,10 @@
 
 The current prototype is built around an **Arduino Pro Micro (ATmega32U4, 5 V / 16 MHz)** and connects to Jasper through the LINK header.
 
+![Prototype interface board](../docs/images/interface-board.jpg)
+
+*Hand-built prototype interface board used during development and testing.*
+
 ## Functional blocks
 
 1. Jasper LINK interface
@@ -41,6 +45,12 @@ Also verify the exact USB/VCC topology of the Pro Micro clone before using USB w
 The prototype uses approximately 10 kΩ series resistors on T and A–F. These are intentionally retained even though the MCU operates at the same nominal 5 V logic level.
 
 The firmware's default idle condition is high impedance, not a driven logic level.
+
+## Jasper connection points
+
+![Jasper connection points](../docs/images/jasper-connection-points.jpg)
+
+*Prototype connection points on a Jasper Rev 2.2. The interface board is only resting on the synthesizer PCB in this photo; this is not the final mounting position. The image is intended to show where the prototype wiring connects to the Jasper board. Final mechanical mounting will be done later in a dedicated enclosure.*
 
 ## Status
 
