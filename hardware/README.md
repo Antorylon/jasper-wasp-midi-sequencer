@@ -8,7 +8,7 @@ The current prototype is built around an **Arduino Pro Micro (ATmega32U4, 5 V / 
 
 ## Schematic
 
-![Jasper / Wasp MIDI interface schematic](../docs/images/jasper-wasp-midi-schematic.png)
+![Jasper / Wasp MIDI interface schematic](../docs/images/jasper-wasp-midi-schematic.jpg)
 
 *Current prototype schematic. Component designators and values correspond to the diagram above.*
 
